@@ -8,26 +8,24 @@
 
 <p align="end">
 <a href="https://github.com/elyor404"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=github"></a>
-<a href="https://t.me/elyor404"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
+<a href="https://t.me/elyor_4o4"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
 </p>
 
 <h1> 👨🏻‍💻 About me </h1>
 
-- 🎓 &nbsp; 1st-year student at **TSUE**.
+- 🎓 &nbsp; 2st-year student at **TSUE**.
 - 🧑‍💻 &nbsp; Learning and practicing **C# and .NET** (ASP.NET Core, EF Core, FluentValidation).
 - 💡 &nbsp; Building small but real-world projects like:
   - 📝 [QuizApp (C# Console App)](https://github.com/elyor404)  
   - ⚡ [Quiz API (ASP.NET Core Web API)](https://github.com/elyor404/QuizApi)  
   - 🤖 [Bot2 (Telegram bot project)](https://github.com/elyor404/Bot2)
-- 🌱 &nbsp; Exploring **software development, cybersecurity & ethical hacking**.
-- 📫 &nbsp; Reach me at: **elyorbek@example.com**  
+- 📫 &nbsp; Reach me at: **elxatamboyev2005@gmail.com**  
 
 <br/>
 
 <h1>🛠 Tech Stack</h1>
 
-- 💻 &nbsp; `.cs` | `.js` | `.sql`
-- 🌐 &nbsp; ASP.NET Core | Web API | MVC | Blazor
+- 🌐 &nbsp; ASP.NET Core | Web API 
 - 🛢 &nbsp; EF Core | MS SQL Server | PostgreSQL
 - ⚙️ &nbsp; Git | GitHub | Docker | GitHub Actions
 - 📚 &nbsp; FluentValidation | AutoMapper | LINQ
@@ -42,12 +40,6 @@
 </a>
 </div>
 <br/>
-
-[![Elyorbek's Streak](https://github-readme-streak-stats.herokuapp.com?user=elyor404&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
-
-[![](https://komarev.com/ghpvc/?username=elyor404&color=orange&label=Profile%20Views)](https://github.com/elyor404)
-[![](https://img.shields.io/github/followers/elyor404?label=GitHub%20Followers)](https://github.com/elyor404)
-
 <!--
 **elyor404/elyor404** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
