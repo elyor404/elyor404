@@ -8,7 +8,7 @@
 
 <p align="end">
 <a href="https://github.com/elyor404"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=github"></a>
-<a href="https://t.me/elyor_4o4"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
+<a href="https://t.me/ekhatanboyev"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
 </p>
 
 <h1> 👨🏻‍💻 About me </h1>
